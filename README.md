@@ -10,3 +10,4 @@ editing the data of branch1
 again editing the branch1 data to save changes
 again again added data branch1 to save changes
 new data find in this main branch
+creating a new branch2 to send data
